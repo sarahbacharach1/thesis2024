@@ -1,0 +1,786 @@
+[
+  {
+    "book_id_title": "41150487",
+    "book_title": "Red, White & Royal Blue",
+    "book_url": "https://www.goodreads.com/book/show/41150487",
+    "book_author": "Casey McQuiston",
+    "genres": [
+      "Romance",
+      "LGBT",
+      "Contemporary",
+      "Fiction",
+      "Queer",
+      "Young Adult",
+      "New Adult"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566742512i/41150487.jpg"
+  },
+  {
+    "book_id_title": "58690308",
+    "book_title": "Book Lovers",
+    "book_url": "https://www.goodreads.com/book/show/58690308",
+    "book_author": "Emily Henry",
+    "genres": [
+      "Romance",
+      "Fiction",
+      "Contemporary",
+      "Audiobook",
+      "Contemporary Romance",
+      "Adult",
+      "Chick Lit"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1638867089i/58690308.jpg"
+  },
+  {
+    "book_id_title": "54985743",
+    "book_title": "People We Meet on Vacation",
+    "book_url": "https://www.goodreads.com/book/show/54985743",
+    "book_author": "Emily Henry",
+    "genres": [
+      "Romance",
+      "Fiction",
+      "Contemporary",
+      "Contemporary Romance",
+      "Audiobook",
+      "Adult",
+      "Chick Lit"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618913179i/54985743.jpg"
+  },
+  {
+    "book_id_title": "27213238",
+    "book_title": "The Hating Game",
+    "book_url": "https://www.goodreads.com/book/show/27213238",
+    "book_author": "Sally  Thorne",
+    "genres": [
+      "Romance",
+      "Contemporary",
+      "Contemporary Romance",
+      "Fiction",
+      "Chick Lit",
+      "Adult",
+      "Audiobook"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1481566824i/27213238.jpg"
+  },
+  {
+    "book_id_title": "41865",
+    "book_title": "Twilight",
+    "book_url": "https://www.goodreads.com/book/show/41865",
+    "book_author": "Stephenie Meyer",
+    "genres": [
+      "Young Adult",
+      "Romance",
+      "Fiction",
+      "Vampires",
+      "Paranormal",
+      "Paranormal Romance",
+      "Supernatural"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1700522826i/41865.jpg"
+  },
+  {
+    "book_id_title": "42201431",
+    "book_title": "The Unhoneymooners",
+    "book_url": "https://www.goodreads.com/book/show/42201431",
+    "book_author": "Christina Lauren",
+    "genres": [
+      "Romance",
+      "Contemporary",
+      "Fiction",
+      "Contemporary Romance",
+      "Audiobook",
+      "Adult",
+      "Chick Lit"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1548201335i/42201431.jpg"
+  },
+  {
+    "book_id_title": "36199084",
+    "book_title": "The Kiss Quotient",
+    "book_url": "https://www.goodreads.com/book/show/36199084",
+    "book_author": "Helen Hoang",
+    "genres": [
+      "Romance",
+      "Contemporary",
+      "Fiction",
+      "Contemporary Romance",
+      "Adult",
+      "Audiobook",
+      "Chick Lit"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1688188444i/36199084.jpg"
+  },
+  {
+    "book_id_title": "32620332",
+    "book_title": "The Seven Husbands of Evelyn Hugo",
+    "book_url": "https://www.goodreads.com/book/show/32620332",
+    "book_author": "Taylor Jenkins Reid",
+    "genres": [
+      "Fiction",
+      "Romance",
+      "Historical Fiction",
+      "LGBT",
+      "Contemporary",
+      "Audiobook",
+      "Queer"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1664458703i/32620332.jpg"
+  },
+  {
+    "book_id_title": "17788401",
+    "book_title": "Ugly Love",
+    "book_url": "https://www.goodreads.com/book/show/17788401",
+    "book_author": "Colleen Hoover",
+    "genres": [
+      "Romance",
+      "Contemporary",
+      "New Adult",
+      "Fiction",
+      "Contemporary Romance",
+      "Audiobook",
+      "Adult"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1632597571i/17788401.jpg"
+  },
+  {
+    "book_id_title": "17347634",
+    "book_title": "Me Before You",
+    "book_url": "https://www.goodreads.com/book/show/17347634",
+    "book_author": "Jojo Moyes",
+    "genres": [
+      "Romance",
+      "Fiction",
+      "Contemporary",
+      "Chick Lit",
+      "Adult",
+      "Adult Fiction",
+      "Audiobook"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665087720i/17347634.jpg"
+  },
+  {
+    "book_id_title": "10818853",
+    "book_title": "Fifty Shades of Grey",
+    "book_url": "https://www.goodreads.com/book/show/10818853",
+    "book_author": "E.L. James",
+    "genres": [
+      "Romance",
+      "Fiction",
+      "Erotica",
+      "BDSM",
+      "Adult",
+      "Contemporary",
+      "Contemporary Romance"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385207843i/10818853.jpg"
+  },
+  {
+    "book_id_title": "10507293",
+    "book_title": "The Selection",
+    "book_url": "https://www.goodreads.com/book/show/10507293",
+    "book_author": "Kiera Cass",
+    "genres": [
+      "Romance",
+      "Young Adult",
+      "Dystopia",
+      "Fantasy",
+      "Fiction",
+      "Science Fiction",
+      "Audiobook"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1322103400i/10507293.jpg"
+  },
+  {
+    "book_id_title": "49041",
+    "book_title": "New Moon",
+    "book_url": "https://www.goodreads.com/book/show/49041",
+    "book_author": "Stephenie Meyer",
+    "genres": [
+      "Fantasy",
+      "Young Adult",
+      "Romance",
+      "Vampires",
+      "Fiction",
+      "Paranormal",
+      "Paranormal Romance"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630592760i/49041.jpg"
+  },
+  {
+    "book_id_title": "110391",
+    "book_title": "The Duke and I",
+    "book_url": "https://www.goodreads.com/book/show/110391",
+    "book_author": "Julia Quinn",
+    "genres": [
+      "Romance",
+      "Historical Romance",
+      "Historical Fiction",
+      "Historical",
+      "Fiction",
+      "Audiobook",
+      "Adult"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1379594717i/110391.jpg"
+  },
+  {
+    "book_id_title": "45484397",
+    "book_title": "The Deal",
+    "book_url": "https://www.goodreads.com/book/show/45484397",
+    "book_author": "Elle Kennedy",
+    "genres": [
+      "Romance",
+      "New Adult",
+      "Sports Romance",
+      "Sports",
+      "Contemporary",
+      "College",
+      "Contemporary Romance"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1557156071i/45484397.jpg"
+  },
+  {
+    "book_id_title": "61718053",
+    "book_title": "Happy Place",
+    "book_url": "https://www.goodreads.com/book/show/61718053",
+    "book_author": "Emily Henry",
+    "genres": [
+      "Romance",
+      "Fiction",
+      "Contemporary",
+      "Audiobook",
+      "Contemporary Romance",
+      "Adult",
+      "Chick Lit"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660145160i/61718053.jpg"
+  },
+  {
+    "book_id_title": "55659629",
+    "book_title": "It Happened One Summer",
+    "book_url": "https://www.goodreads.com/book/show/55659629",
+    "book_author": "Tessa Bailey",
+    "genres": [
+      "Romance",
+      "Contemporary",
+      "Contemporary Romance",
+      "Fiction",
+      "Audiobook",
+      "Adult",
+      "Chick Lit"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1604991895i/55659629.jpg"
+  },
+  {
+    "book_id_title": "428263",
+    "book_title": "Eclipse",
+    "book_url": "https://www.goodreads.com/book/show/428263",
+    "book_author": "Stephenie Meyer",
+    "genres": [
+      "Fantasy",
+      "Young Adult",
+      "Romance",
+      "Vampires",
+      "Fiction",
+      "Paranormal",
+      "Paranormal Romance"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361038355i/428263.jpg"
+  },
+  {
+    "book_id_title": "15745753",
+    "book_title": "Eleanor & Park",
+    "book_url": "https://www.goodreads.com/book/show/15745753",
+    "book_author": "Rainbow Rowell",
+    "genres": [
+      "Young Adult",
+      "Romance",
+      "Fiction",
+      "Contemporary",
+      "Realistic Fiction",
+      "Audiobook",
+      "Coming Of Age"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1341952742i/15745753.jpg"
+  },
+  {
+    "book_id_title": "10964",
+    "book_title": "Outlander",
+    "book_url": "https://www.goodreads.com/book/show/10964",
+    "book_author": "Diana Gabaldon",
+    "genres": [
+      "Historical Fiction",
+      "Romance",
+      "Fantasy",
+      "Fiction",
+      "Time Travel",
+      "Historical",
+      "Historical Romance"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659086907i/10964.jpg"
+  },
+  {
+    "book_id_title": "50659468",
+    "book_title": "A Court of Mist and Fury",
+    "book_url": "https://www.goodreads.com/book/show/50659468",
+    "book_author": "Sarah J. Maas",
+    "genres": [
+      "Fantasy",
+      "Romance",
+      "Young Adult",
+      "New Adult",
+      "Fiction",
+      "Fae",
+      "Fantasy Romance"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620325671i/50659468.jpg"
+  },
+  {
+    "book_id_title": "1162543",
+    "book_title": "Breaking Dawn",
+    "book_url": "https://www.goodreads.com/book/show/1162543",
+    "book_author": "Stephenie Meyer",
+    "genres": [
+      "Fantasy",
+      "Young Adult",
+      "Romance",
+      "Vampires",
+      "Fiction",
+      "Paranormal",
+      "Paranormal Romance"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361039438i/1162543.jpg"
+  },
+  {
+    "book_id_title": "43884209",
+    "book_title": "Get a Life, Chloe Brown",
+    "book_url": "https://www.goodreads.com/book/show/43884209",
+    "book_author": "Talia Hibbert",
+    "genres": [
+      "Romance",
+      "Contemporary",
+      "Fiction",
+      "Adult",
+      "Contemporary Romance",
+      "Audiobook",
+      "Chick Lit"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614273529i/43884209.jpg"
+  },
+  {
+    "book_id_title": "33648131",
+    "book_title": "The Notebook",
+    "book_url": "https://www.goodreads.com/book/show/33648131",
+    "book_author": "Nicholas Sparks",
+    "genres": [
+      "Romance",
+      "Fiction",
+      "Chick Lit",
+      "Contemporary",
+      "Adult",
+      "Classics",
+      "Adult Fiction"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1483183484i/33648131.jpg"
+  },
+  {
+    "book_id_title": "36206591",
+    "book_title": "Love and Other Words",
+    "book_url": "https://www.goodreads.com/book/show/36206591",
+    "book_author": "Christina Lauren",
+    "genres": [
+      "Romance",
+      "Contemporary",
+      "Fiction",
+      "Contemporary Romance",
+      "Adult",
+      "Audiobook",
+      "Chick Lit"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667534514i/36206591.jpg"
+  },
+  {
+    "book_id_title": "15749186",
+    "book_title": "To All the Boys I've Loved Before",
+    "book_url": "https://www.goodreads.com/book/show/15749186",
+    "book_author": "Jenny Han",
+    "genres": [
+      "Romance",
+      "Contemporary",
+      "Young Adult",
+      "Fiction",
+      "Audiobook",
+      "Chick Lit",
+      "Realistic Fiction"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1372086100i/15749186.jpg"
+  },
+  {
+    "book_id_title": "61767292",
+    "book_title": "Icebreaker",
+    "book_url": "https://www.goodreads.com/book/show/61767292",
+    "book_author": "Hannah  Grace",
+    "genres": [
+      "Romance",
+      "Sports Romance",
+      "Sports",
+      "Contemporary",
+      "Hockey",
+      "Contemporary Romance",
+      "New Adult"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659045816i/61767292.jpg"
+  },
+  {
+    "book_id_title": "55817097",
+    "book_title": "Twisted Love",
+    "book_url": "https://www.goodreads.com/book/show/55817097",
+    "book_author": "Ana Huang",
+    "genres": [
+      "Romance",
+      "Contemporary",
+      "Contemporary Romance",
+      "New Adult",
+      "Fiction",
+      "Audiobook",
+      "Adult"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618487915i/55817097.jpg"
+  },
+  {
+    "book_id_title": "13623848",
+    "book_title": "The Song of Achilles",
+    "book_url": "https://www.goodreads.com/book/show/13623848",
+    "book_author": "Madeline Miller",
+    "genres": [
+      "Fantasy",
+      "Historical Fiction",
+      "Fiction",
+      "Mythology",
+      "Romance",
+      "LGBT",
+      "Historical"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1357177533i/13623848.jpg"
+  },
+  {
+    "book_id_title": "36478784",
+    "book_title": "The Flatshare",
+    "book_url": "https://www.goodreads.com/book/show/36478784",
+    "book_author": "Beth O'Leary",
+    "genres": [
+      "Romance",
+      "Contemporary",
+      "Fiction",
+      "Chick Lit",
+      "Audiobook",
+      "Contemporary Romance",
+      "Adult"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552471375i/36478784.jpg"
+  },
+  {
+    "book_id_title": "40495957",
+    "book_title": "Heartstopper: Volume One",
+    "book_url": "https://www.goodreads.com/book/show/40495957",
+    "book_author": "Alice Oseman",
+    "genres": [
+      "Romance",
+      "Graphic Novels",
+      "LGBT",
+      "Young Adult",
+      "Queer",
+      "Contemporary",
+      "Comics"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1710257308i/40495957.jpg"
+  },
+  {
+    "book_id_title": "61326735",
+    "book_title": "Love, Theoretically",
+    "book_url": "https://www.goodreads.com/book/show/61326735",
+    "book_author": "Ali Hazelwood",
+    "genres": [
+      "Romance",
+      "Contemporary",
+      "Contemporary Romance",
+      "Fiction",
+      "Adult",
+      "Audiobook",
+      "Chick Lit"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1681476644i/61326735.jpg"
+  },
+  {
+    "book_id_title": "16248068",
+    "book_title": "The Elite",
+    "book_url": "https://www.goodreads.com/book/show/16248068",
+    "book_author": "Kiera Cass",
+    "genres": [
+      "Romance",
+      "Young Adult",
+      "Dystopia",
+      "Fantasy",
+      "Fiction",
+      "Audiobook",
+      "Science Fiction"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391454595i/16248068.jpg"
+  },
+  {
+    "book_id_title": "50659472",
+    "book_title": "A Court of Wings and Ruin",
+    "book_url": "https://www.goodreads.com/book/show/50659472",
+    "book_author": "Sarah J. Maas",
+    "genres": [
+      "Fantasy",
+      "Romance",
+      "Young Adult",
+      "New Adult",
+      "Fiction",
+      "Fae",
+      "Fantasy Romance"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585623092i/50659472.jpg"
+  },
+  {
+    "book_id_title": "11857408",
+    "book_title": "Fifty Shades Darker",
+    "book_url": "https://www.goodreads.com/book/show/11857408",
+    "book_author": "E.L. James",
+    "genres": [
+      "Romance",
+      "Fiction",
+      "Erotica",
+      "BDSM",
+      "Adult",
+      "Contemporary",
+      "Contemporary Romance"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631260114i/11857408.jpg"
+  },
+  {
+    "book_id_title": "39338454",
+    "book_title": "The Bride Test",
+    "book_url": "https://www.goodreads.com/book/show/39338454",
+    "book_author": "Helen Hoang",
+    "genres": [
+      "Romance",
+      "Contemporary",
+      "Fiction",
+      "Contemporary Romance",
+      "Adult",
+      "Audiobook",
+      "Chick Lit"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1548428073i/39338454.jpg"
+  },
+  {
+    "book_id_title": "18619684",
+    "book_title": "The Time Traveler\u2019s Wife",
+    "book_url": "https://www.goodreads.com/book/show/18619684",
+    "book_author": "Audrey Niffenegger",
+    "genres": [
+      "Fiction",
+      "Romance",
+      "Fantasy",
+      "Time Travel",
+      "Science Fiction",
+      "Contemporary",
+      "Adult"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1380660571i/18619684.jpg"
+  },
+  {
+    "book_id_title": "6936382",
+    "book_title": "Anna and the French Kiss",
+    "book_url": "https://www.goodreads.com/book/show/6936382",
+    "book_author": "Stephanie Perkins",
+    "genres": [
+      "Romance",
+      "Young Adult",
+      "Contemporary",
+      "Fiction",
+      "Chick Lit",
+      "Realistic Fiction",
+      "Contemporary Romance"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358271931i/6936382.jpg"
+  },
+  {
+    "book_id_title": "32822135",
+    "book_title": "Archer's Voice",
+    "book_url": "https://www.goodreads.com/book/show/32822135",
+    "book_author": "Mia Sheridan",
+    "genres": [
+      "Romance",
+      "Contemporary",
+      "New Adult",
+      "Contemporary Romance",
+      "Fiction",
+      "Adult",
+      "Disability"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1656593818i/32822135.jpg"
+  },
+  {
+    "book_id_title": "11505797",
+    "book_title": "Beautiful Disaster",
+    "book_url": "https://www.goodreads.com/book/show/11505797",
+    "book_author": "Jamie McGuire",
+    "genres": [
+      "Romance",
+      "New Adult",
+      "Contemporary",
+      "Young Adult",
+      "Contemporary Romance",
+      "College",
+      "Fiction"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358259032i/11505797.jpg"
+  },
+  {
+    "book_id_title": "18635016",
+    "book_title": "The One",
+    "book_url": "https://www.goodreads.com/book/show/18635016",
+    "book_author": "Kiera Cass",
+    "genres": [
+      "Romance",
+      "Young Adult",
+      "Dystopia",
+      "Fantasy",
+      "Fiction",
+      "Audiobook",
+      "Science Fiction"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1699307836i/18635016.jpg"
+  },
+  {
+    "book_id_title": "6185",
+    "book_title": "Wuthering Heights",
+    "book_url": "https://www.goodreads.com/book/show/6185",
+    "book_author": "Emily Bront\u00eb",
+    "genres": [
+      "Classics",
+      "Fiction",
+      "Romance",
+      "Gothic",
+      "Historical Fiction",
+      "Literature",
+      "Historical"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388212715i/6185.jpg"
+  },
+  {
+    "book_id_title": "55710822",
+    "book_title": "Better than the Movies",
+    "book_url": "https://www.goodreads.com/book/show/55710822",
+    "book_author": "Lynn Painter",
+    "genres": [
+      "Romance",
+      "Young Adult",
+      "Contemporary",
+      "Fiction",
+      "Contemporary Romance",
+      "Audiobook",
+      "Young Adult Romance"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618150545i/55710822.jpg"
+  },
+  {
+    "book_id_title": "61431922",
+    "book_title": "Fourth Wing",
+    "book_url": "https://www.goodreads.com/book/show/61431922",
+    "book_author": "Rebecca Yarros",
+    "genres": [
+      "Fantasy",
+      "Romance",
+      "Dragons",
+      "Fiction",
+      "Audiobook",
+      "Fantasy Romance",
+      "New Adult"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1701980900i/61431922.jpg"
+  },
+  {
+    "book_id_title": "5821978",
+    "book_title": "The Summer I Turned Pretty",
+    "book_url": "https://www.goodreads.com/book/show/5821978",
+    "book_author": "Jenny Han",
+    "genres": [
+      "Romance",
+      "Young Adult",
+      "Contemporary",
+      "Fiction",
+      "Audiobook",
+      "Chick Lit",
+      "Realistic Fiction"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361666855i/5821978.jpg"
+  },
+  {
+    "book_id_title": "60393672",
+    "book_title": "It Starts with Us",
+    "book_url": "https://www.goodreads.com/book/show/60393672",
+    "book_author": "Colleen Hoover",
+    "genres": [
+      "Romance",
+      "Fiction",
+      "Contemporary",
+      "Audiobook",
+      "Adult",
+      "Contemporary Romance",
+      "Chick Lit"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644605295i/60393672.jpg"
+  },
+  {
+    "book_id_title": "110384",
+    "book_title": "Romancing Mister Bridgerton",
+    "book_url": "https://www.goodreads.com/book/show/110384",
+    "book_author": "Julia Quinn",
+    "genres": [
+      "Romance",
+      "Historical Romance",
+      "Historical",
+      "Historical Fiction",
+      "Fiction",
+      "Audiobook",
+      "Regency"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1274211494i/110384.jpg"
+  },
+  {
+    "book_id_title": "13536860",
+    "book_title": "Fifty Shades Freed",
+    "book_url": "https://www.goodreads.com/book/show/13536860",
+    "book_author": "E.L. James",
+    "genres": [
+      "Romance",
+      "Erotica",
+      "Fiction",
+      "BDSM",
+      "Adult",
+      "Contemporary",
+      "Contemporary Romance"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1336418837i/13536860.jpg"
+  },
+  {
+    "book_id_title": "41057294",
+    "book_title": "Normal People",
+    "book_url": "https://www.goodreads.com/book/show/41057294",
+    "book_author": "Sally Rooney",
+    "genres": [
+      "Fiction",
+      "Romance",
+      "Contemporary",
+      "Literary Fiction",
+      "Audiobook",
+      "Ireland",
+      "Adult"
+    ],
+    "cover_image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571423190i/41057294.jpg"
+  }
+]
